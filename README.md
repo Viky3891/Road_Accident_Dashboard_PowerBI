@@ -76,7 +76,7 @@ Power BI Desktop, DAX, Power Query, Data Modeling, PowerPoint (background design
 
 ## Author
 
-**Your Name**
+**Vikas Pawar**
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 Feedback and suggestions are welcome!
